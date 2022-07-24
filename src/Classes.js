@@ -1,7 +1,7 @@
 import React from 'react';
 import {Grid, Segment} from 'semantic-ui-react';
-import ClassesPage from './class-representation/ClassesPage'
-import './classes.css';
+import ClassesPage from './components/class-representation/ClassesPage'
+import './components/css/classes.css';
 
 const classObjs = [
   {
